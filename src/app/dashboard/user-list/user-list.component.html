@@ -1,0 +1,8 @@
+<!-- Loopar genom users, lägger ut en component för varje item och skickar aktuell user till user i iser-list-item, samt färg -->
+
+<ul>
+  <li *ngFor="let obj of users">
+    <app-user-list-item [user]="obj.user" [textColor]="textColor" [routerLink]="['/user',obj.user]"></app-user-list-item>
+  </li>
+</ul>
+<button (click)="toggleColors()" class="btn btn-primary btn-sm">Toggle Colors</button>
