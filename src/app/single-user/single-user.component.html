@@ -1,2 +1,23 @@
-<h3>User: {{user}}</h3>
+
+<div id="container">
+    <h3>{{user}}</h3>
+    <div id="userText">
+        <h4>Nickname:</h4>
+        <h4>Fullname:</h4>
+        <h4>Street:</h4>
+        <h4>Zipcode:</h4>
+        <h4>City:</h4>
+    </div>
+    <div id="user">
+        <h4>{{usersService.userSpecs?.name}}</h4>
+        <h4>{{usersService.userSpecs?.fullName}}</h4>
+        <h4>{{usersService.userSpecs?.street}}</h4>
+        <h4>{{usersService.userSpecs?.zipCode}}</h4>
+        <h4>{{usersService.userSpecs?.city}}</h4>
+    </div>
+    <br style="clear: both" />
+</div>
+
+
+
 
