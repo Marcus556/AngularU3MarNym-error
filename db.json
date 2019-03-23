@@ -1,0 +1,34 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Nils",
+        "fullName": "Nils Karlsson",
+        "street": "Kostavagen 16",
+        "zipCode": "34343",
+        "city": "Lessebo"
+      },
+      {
+        "id": 2,
+        "name": "Nils",
+        "fullName": "Nils Karlsson",
+        "street": "Kostavagen 16",
+        "zipCode": "34343",
+        "city": "Lessebo"
+      },
+      {
+        "id": 3,
+        "name": "Nils",
+        "fullName": "Nils Karlsson",
+        "street": "Kostavagen 16",
+        "zipCode": "34343",
+        "city": "Lessebo"
+      },
+      {
+        "id": 4,
+        "name": "Nils",
+        "fullName": "Nils Karlsson",
+        "street": "Kostavagen 16",
+        "zipCode": "34343",
+        "city": "Lessebo"
+      }]}
