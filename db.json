@@ -15,7 +15,8 @@
         "fullName": "Marcus Nyman",
         "street": "vagen 16",
         "zipCode": "34343",
-        "city": "Växjö"
+        "city": "Växjö",
+        "profilePic": "https://www.randomaddressgenerator.com/media/face/male2.jpg"
       },
       {
         "id": 3,
@@ -23,7 +24,8 @@
         "fullName": "Emma Karlsson",
         "street": "synthvagen 2",
         "zipCode": "34343",
-        "city": "hemmaboda"
+        "city": "hemmaboda",
+        "profilePic": "https://www.randomaddressgenerator.com/media/face/female1.jpg"
       },
       {
         "id": 4,
@@ -31,7 +33,8 @@
         "fullName": "Helena Jillson",
         "street": "krutvägen 1",
         "zipCode": "34343",
-        "city": "Kruteboda"
+        "city": "Kruteboda",
+        "profilePic": "https://www.randomaddressgenerator.com/media/face/female2.jpg"
       },
       {
         "id": 5,
@@ -39,7 +42,8 @@
         "fullName": "Liam Neson",
         "street": "Hollywood boulevard",
         "zipCode": "34343",
-        "city": "La"
+        "city": "La",
+        "profilePic": "https://www.randomaddressgenerator.com/media/face/male9.jpg"
       },
       {
         "id": 6,
@@ -47,7 +51,8 @@
         "fullName": "Ritva roboda",
         "street": "Kungsvägen 1",
         "zipCode": "34343",
-        "city": "Åmål"
+        "city": "Åmål",
+        "profilePic": "https://www.randomaddressgenerator.com/media/face/female7.jpg"
       },
       {
         "id": 7,
@@ -55,5 +60,6 @@
         "fullName": "Lars Larsson",
         "street": "Larsavägen 1",
         "zipCode": "34343",
-        "city": "Larseboda"
+        "city": "Larseboda",
+        "profilePic": "https://www.randomaddressgenerator.com/media/face/male11.jpg"
       }]}
