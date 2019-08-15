@@ -11,48 +11,48 @@
       {
         "id": 2,
         "name": "Marcus",
-        "fullName": "Nils Karlsson",
-        "street": "Kostavagen 16",
+        "fullName": "Marcus Nyman",
+        "street": "vagen 16",
         "zipCode": "34343",
-        "city": "Lessebo"
+        "city": "Växjö"
       },
       {
         "id": 3,
-        "name": "Nisse",
-        "fullName": "Nils Karlsson",
-        "street": "Kostavagen 16",
+        "name": "Emma",
+        "fullName": "Emma Karlsson",
+        "street": "synthvagen 2",
         "zipCode": "34343",
-        "city": "Lessebo"
+        "city": "hemmaboda"
       },
       {
         "id": 4,
-        "name": "Nils",
-        "fullName": "Nils Karlsson",
-        "street": "Kostavagen 16",
+        "name": "Helena",
+        "fullName": "Helena Jillson",
+        "street": "krutvägen 1",
         "zipCode": "34343",
-        "city": "Lessebo"
+        "city": "Kruteboda"
       },
       {
         "id": 5,
-        "name": "Emil",
-        "fullName": "Nils Karlsson",
-        "street": "Kostavagen 16",
+        "name": "Liam",
+        "fullName": "Liam Neson",
+        "street": "Hollywood boulevard",
         "zipCode": "34343",
-        "city": "Lessebo"
+        "city": "La"
       },
       {
         "id": 6,
-        "name": "Sven",
-        "fullName": "Nils Karlsson",
-        "street": "Kostavagen 16",
+        "name": "Ritva",
+        "fullName": "Ritva roboda",
+        "street": "Kungsvägen 1",
         "zipCode": "34343",
-        "city": "Lessebo"
+        "city": "Åmål"
       },
       {
         "id": 7,
-        "name": "Bertil",
-        "fullName": "Nils Karlsson",
-        "street": "Kostavagen 16",
+        "name": "Lars",
+        "fullName": "Lars Larsson",
+        "street": "Larsavägen 1",
         "zipCode": "34343",
-        "city": "Lessebo"
+        "city": "Larseboda"
       }]}
